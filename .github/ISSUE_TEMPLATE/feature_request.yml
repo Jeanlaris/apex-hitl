@@ -1,0 +1,13 @@
+name: Feature Request
+description: Suggest an idea for this project
+title: "[Feature]: "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: textarea
+    id: what-suggestion
+    attributes:
+      label: Your suggestion
+      description: Tell us what you want to add or change.
+      placeholder: Describe the feature
+    validations:
+      required: true
