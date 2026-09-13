@@ -1,0 +1,10 @@
+name: Bug report or custom issue
+description: Create a report or start a discussion for custom topics.
+title: "[Custom]: "
+labels: ["help wanted"]
+projects: ["gitproject"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the repository! Please provide detailed info below.
