@@ -4,7 +4,7 @@
 
 Transforming chaos into power. Operating at 4K high definition; we engineer the future.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-FF69B4?style=for-the-badge)](https://github.com/sponsors/jeanlars)
+[![Sponsor Jean Laris](https://img.shields.io/badge/Sponsor-Jean_Laris-34A853?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jeanlars)
 
 ---
 
