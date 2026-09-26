@@ -4,8 +4,6 @@
 
 Transforming chaos into power. Operating at 4K high definition; we engineer the future.
 
-[![Sponsor Jean laris](https://img.shields.io/badge/Sponsor-Jean%20laris-ea4aaa?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/jeanlaris)
-
 ---
 
 ## 🏛️ Apex Architecture
